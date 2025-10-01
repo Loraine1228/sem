@@ -7,3 +7,4 @@ Software DevOps
 
 [![Releases](https://img.shields.io/github/release/Loraine1228/sem/all.svg?style=flat-square)](https://github.com/Loraine1228/sem/releases)
 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Loraine1228/sem/main.yml?branch=develop)
